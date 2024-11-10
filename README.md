@@ -1,4 +1,4 @@
 # DemoGit
 This is my first Git Repository.
 <br>
-Author - Prem Rawal
+Author - Prem (Programer)
